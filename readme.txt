@@ -1,0 +1,4 @@
+Password Generator Version 1.1
+
+password_cli.py - run from the command line
+password_gen.py - PyGTK application for Gnome 2.
